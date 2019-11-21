@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GymApp</string>
+
+    <string name="navigation_drawer_open">Abrir panel de navegación</string>
+    <string name="navigation_drawer_close">Cerrar panel de navegación</string>
+
+    <string name="action_settings">Configuración</string>
+    <string name="add_routine_caption">Agregar rutina</string>
+    <string name="new_routine_title">Nueva rutina</string>
+    <string name="no_description_text">Sin descripción</string>
+    <string name="no_title_text">Sin título</string>
+    <string name="set_admin_label">Circuito</string>
+    <string name="reps_count_hint">Repeticiones</string>
+    <string name="sub_set_admin_label">Sub-circuito</string>
+    <string name="return_home_caption">Inicio</string>
+    <string name="home_content_label">Tus rutinas</string>
+</resources>

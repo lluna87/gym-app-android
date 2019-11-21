@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="routine_name_hint" type="string">Nombre</item>
+    <item name="routine_description_hint" type="string">Descripción</item>
+    <item name="routine_sets_title_hint" type="string">Circuitos</item>
+</resources>

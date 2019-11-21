@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="routine_name" type="string">Name</item>
+    <item name="routine_description_hint" type="string">Description</item>
+    <item name="routine_sets_title" type="string">Sets</item>
+</resources>

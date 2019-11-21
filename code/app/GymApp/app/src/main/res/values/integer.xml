@@ -1,0 +1,4 @@
+<resources>
+    <integer name="min_text_box_lines">4</integer>
+    <integer name="basic_input_box_lines">1</integer>
+</resources>
